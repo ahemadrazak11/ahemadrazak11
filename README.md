@@ -89,3 +89,5 @@
 <h3 align="left">GitHub Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=ahemadrazak11" alt="ahemadrazak11" /></a> </p>
+            
+[![An image of @ahemadrazak11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahemadrazak11)](https://holopin.io/@ahemadrazak11)
